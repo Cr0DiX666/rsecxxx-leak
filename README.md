@@ -12,7 +12,8 @@ Donate
 ==========================
 Dompet Digital Indonesian
 ==========================
-OVO/Gopay/DANA
+OVO/DANA/Gopay
+
 085600006369
 
 =========================
