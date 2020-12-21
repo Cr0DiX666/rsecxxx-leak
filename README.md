@@ -8,16 +8,22 @@ $ git clone https://github.com/RSecxxx/rsecxxx-leak.git
 $ bash leak.sh
 
 ==========================
+
 Donate
+
 ==========================
+
 Dompet Digital Indonesian
+
 ==========================
 OVO/DANA/Gopay
 
 085600006369
 
 =========================
+
 Contact Me:
+
 =========================
 Update Version 
 Premium Pro v1.0
