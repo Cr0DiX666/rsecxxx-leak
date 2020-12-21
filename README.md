@@ -1,8 +1,28 @@
 # rsecxxx-leak
-dump Leak username password &amp; cheker
+Dump Leak Username Password &amp; Cheker
 
-Donate 
+$ apt-get update && apt-get upgrade && apt-get install git
+
+$ git clone https://github.com/RSecxxx/rsecxxx-leak.git
+
+$ bash leak.sh
+
+==========================
+Donate
+==========================
+Dompet Digital Indonesian
+==========================
 OVO/Gopay/DANA
 085600006369
 
-WhatsApp: 085600006369 
+=========================
+Contact Me:
+=========================
+Update Version 
+Premium Pro v1.0
+Harga 300k
+
+Hubungi 
+WhatsApp: wa.me/+6285600006369
+
+
