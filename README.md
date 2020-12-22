@@ -34,4 +34,8 @@ Harga 300k
 Hubungi 
 WhatsApp: wa.me/+6285600006369
 
+=====================================
 
+Tutorial: https://youtu.be/q-jyoi1tlo8
+
+======================================
