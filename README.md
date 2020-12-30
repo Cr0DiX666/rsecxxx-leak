@@ -7,6 +7,15 @@ $ git clone https://github.com/RSecxxx/rsecxxx-leak.git
 
 $ bash leak.sh
 
+cheker moonton new Tools Cheker-moonton
+
+$ python cheker-moonton.py --list YOURLIST
+if u want use thread
+
+$ python cheker-moonton.py --list YOURLIST --thread 5 ( MAX 10 )
+if u want costume DELIMETERS ( |, :, =, #, etc )
+
+$ python cheker-moonton.py --list YOURLIST 
 ==========================
 
 Donate
