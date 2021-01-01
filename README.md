@@ -16,6 +16,9 @@ $ python cheker-moonton.py --list YOURLIST --thread 5 ( MAX 10 )
 if u want costume DELIMETERS ( |, :, =, #, etc )
 
 $ python cheker-moonton.py --list YOURLIST 
+
+
+
 ==========================
 
 Donate
