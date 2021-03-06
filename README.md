@@ -27,11 +27,17 @@ Donate
 
 Dompet Digital Indonesian
 
+Dompet Virtual BTC & Paypal
+
 ==========================
 
-OVO/DANA/Gopay
+OVO | Dana | Gopay | BTC | PayPal
 
-085600006369
+OVO | Dana | Gopay : 085600006369
+
+BTC: 1KE1ogmj7muJRZoruWuRufCbFyGZ7GJczY
+
+Paypal: paypal.me/reynaldyzanuar
 
 =========================
 
