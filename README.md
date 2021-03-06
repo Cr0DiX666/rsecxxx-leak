@@ -25,9 +25,7 @@ Donate
 
 ==========================
 
-Dompet Digital Indonesian
-
-Dompet Virtual BTC & Paypal
+wallet Donate OVO | Dana | Gopay | BTC | Paypal
 
 ==========================
 
