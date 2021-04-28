@@ -5,7 +5,7 @@ $ apt-get update && apt-get upgrade && apt-get install git
 
 $ git clone https://github.com/RSecxxx/rsecxxx-leak.git
 
-$ bash leak.sh
+$ bash Leakv5.sh
 
 cheker moonton new Tools Cheker-moonton
 
@@ -21,25 +21,25 @@ $ python cheker-moonton.py --list YOURLIST
 
 ==========================
 
-Donate
+# Donate
 
 ==========================
 
-wallet Donate OVO | Dana | Gopay | BTC | Paypal
+# wallet Donate OVO | Dana | Gopay | BTC | Paypal
 
 ==========================
 
-OVO | Dana | Gopay | BTC | PayPal
+# OVO | Dana | Gopay | BTC | PayPal
 
-OVO | Dana | Gopay : 085600006369
+# OVO | Dana | Gopay : 085600006369
 
-BTC: 1KE1ogmj7muJRZoruWuRufCbFyGZ7GJczY
+# BTC: 1KE1ogmj7muJRZoruWuRufCbFyGZ7GJczY
 
-Paypal: paypal.me/reynaldyzanuar
+# Paypal: paypal.me/reynaldyzanuar
 
 =========================
 
-Contact Me:
+# Contact Me:
 
 =========================
 
@@ -47,11 +47,11 @@ Update Version
 Premium Pro v1.0
 Harga 300k
 
-Hubungi 
-WhatsApp: wa.me/+6285600006369
+# Hubungi 
+# WhatsApp: wa.me/+6285600006369
 
 =====================================
 
-Tutorial: https://youtu.be/q-jyoi1tlo8
+# Tutorial: https://youtu.be/q-jyoi1tlo8
 
 ======================================
