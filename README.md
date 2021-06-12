@@ -36,7 +36,7 @@ $ python cheker-moonton.py --list YOURLIST
 # BTC: bc1q9kcyldk2hg7ek70rhhg0vm9ekuqp89z6xn5myh
 
 ```
-[url=https://ibb.co/TqZVchy][img]https://i.ibb.co/WpQbnKC/20210612-214545.png[/img][/url]
+https://github.com/RSecxxx/rsecxxx-leak/blob/main/20210612_214545.png
 ```
 
 # Paypal: paypal.me/reynaldyzanuar
