@@ -34,8 +34,7 @@ $ python cheker-moonton.py --list YOURLIST
 # OVO | Dana | Gopay : 085600006369
 
 # BTC: bc1q9kcyldk2hg7ek70rhhg0vm9ekuqp89z6xn5myh
-
-![SS][url=https://ibb.co/TqZVchy][img]https://i.ibb.co/WpQbnKC/20210612-214545.png[/img][/url][url=https://ibb.co/TqZVchy][img]https://i.ibb.co/WpQbnKC/20210612-214545.png[/img][/url]
+<a href="https://ibb.co/TqZVchy"><img src="https://i.ibb.co/WpQbnKC/20210612-214545.png" alt="20210612-214545" border="0"></a><a href="https://ibb.co/TqZVchy"><img src="https://i.ibb.co/WpQbnKC/20210612-214545.png" alt="20210612-214545" border="0"></a><a href="https://ibb.co/TqZVchy"><img src="https://i.ibb.co/WpQbnKC/20210612-214545.png" alt="20210612-214545" border="0"></a>
 
 # Paypal: paypal.me/reynaldyzanuar
 
